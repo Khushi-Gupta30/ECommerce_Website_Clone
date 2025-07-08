@@ -198,7 +198,7 @@ span{
 /**hero-image**/
 
 .hero-section{
-    background-image:url("HeroSection.png");
+    background-image:url("Billboard.png");
     height:550px;
     background-size:cover;
     display:flex;
